@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-	"start": "node 8.js", 
+	"start": "node 5.js", 
 	"test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon --ignore public",
     "1": "nodemon 1",

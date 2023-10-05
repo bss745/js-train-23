@@ -52,12 +52,6 @@ jane.sendMessage("Привіт!"); // Виведе: Відправлено Email
 
 console.log(`//=====`);
 
-// class User15 {
-//   constructor(name, chat) {
-//     this.name = name;
-//     this.chat = chat;
-//   }
-
 //   sendMessage(message) {
 //     console.log(`${this.name} відправив повідомлення ${message}`);
 //     return this.chat.sendMessage(this, message);
